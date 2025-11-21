@@ -1,4 +1,4 @@
-# PokeDex Premium
+# PokeDex
 
 Um site moderno e responsivo de Pokémon que utiliza a PokeAPI para exibir informações detalhadas sobre seus Pokémons favoritos.
 
